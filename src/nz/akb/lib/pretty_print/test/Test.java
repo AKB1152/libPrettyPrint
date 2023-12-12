@@ -1,3 +1,5 @@
+package nz.akb.lib.pretty_print.test;
+
 import nz.akb.lib.pretty_print.ANSI;
 
 public class Test {
